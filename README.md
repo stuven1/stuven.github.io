@@ -3,6 +3,7 @@
 Hi! Welcome to MyPage.
 It's a great day.
 Stay cool, stay fab!
+We are the best.
 
 You can use the [editor on GitHub](https://github.com/stuven1/stuven.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
